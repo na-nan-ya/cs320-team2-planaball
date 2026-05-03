@@ -52,7 +52,7 @@ ___
 This Tangible UI (TUI) is intended to be open to the creative interpretation of the user! As the creators, we wanted each visual chip + ball combination to represent one task. Set an alarm on the timer associated with that servo for when you plan to start the task. The visual chip slowly begins to rise around 5 seconds (this will be a longer duration in future iterations) before the alarm and the ball drops at the set time. The ball is meant to be played with as you work on your task, as they were specifically selected due to their stress relieving designs. Once you are done with your task or your next visual chip begins to rise, place the ball back in its slot and loop the rubber band over the solenoid lock to 'close' the door. 
 
 ___
-#### Credits
+### Credits
 This project was developed end-to-end for CS320: Tangible User Interfaces at Wellesley College by Amanda Cheng, Nicole Lei, and Ananya Ganesh under the guidance of Professor Orit Shaer, Nina Davalos, and Jennifer Long. 
 
 Google Gemini was used as a supplementary tool for writing code and mapping hardware connections.
