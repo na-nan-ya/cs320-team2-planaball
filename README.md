@@ -53,7 +53,7 @@ This Tangible UI (TUI) is intended to be open to the creative interpretation of 
 
 ___
 #### Credits
-This project was developed end-to-end at Wellesley College by Amanda Cheng, Nicole Lei, and Ananya Ganesh under the guidance of Professor Orit Shaer, Nina Davalos, and Jennifer Long. 
+This project was developed end-to-end for CS320: Tangible User Interfaces at Wellesley College by Amanda Cheng, Nicole Lei, and Ananya Ganesh under the guidance of Professor Orit Shaer, Nina Davalos, and Jennifer Long. 
 
 Google Gemini was used as a supplementary tool for writing code and mapping hardware connections.
 
